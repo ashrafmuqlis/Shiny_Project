@@ -48,10 +48,10 @@ A = Total amount (Principal + Interest), P = Principal amount, I = Interest amou
 Application Link and Code
 ========================================================
 Try out the application on the RStudio shinyapps.io website:
-[https://ashrafmuqlis.shinyapps.io/Shiny_Project]("https://ashrafmuqlis.shinyapps.io/Shiny_Project")
+[https://ashrafmuqlis.shinyapps.io/Shiny_Project](https://ashrafmuqlis.shinyapps.io/Shiny_Project)
 
 To see the code for the application, visit github website:
-[https://github.com/ashrafmuqlis/Shiny_Project]("https://github.com/ashrafmuqlis/Shiny_Project")
+[https://github.com/ashrafmuqlis/Shiny_Project](https://github.com/ashrafmuqlis/Shiny_Project)
 
 Useful files in repo:
 
